@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Rin (Nguyen Minh)
 
 ## 💫 About Me
-I'm a passionate **software developer** currently focused on **Android development** (Kotlin + Firebase) and **Java Spring MVC**.  
+I'm a passionate **software developer** currently focused on **Java Backend** (Spring Boot + MySQL)
 I enjoy learning new technologies, writing clean and efficient code, and building projects that make life easier and more enjoyable.  
 
 🎯 **Goal:** Become a full-stack developer capable of turning creative ideas into real, impactful products.
